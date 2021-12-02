@@ -45,7 +45,7 @@
 
 <br />
 
-## 📜 Publications:
+## 📜 Publication:
 <!-- BLOG-POST-LIST:START -->
 - [Data-driven methodology for discovery and response to pulmonary symptomology in hypertension through statistical learning and data mining: Application to COVID-19 related pharmacovigilance](https://elifesciences.org/articles/70734)
 - [Pulmonary adverse drug event data in hypertension with implicationson COVID‐19 morbidity](https://www.nature.com/articles/s41598-021-92734-7)
