@@ -13,12 +13,6 @@
 
 ## :email: Find me on:
 
-<!--
-[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
-
 <p align="center">
  <a href="https://biggestcheeseburger.github.io" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <!-- <a href="https://www.linkedin.com/in/xuan-xu-59aa23171/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> -->
@@ -26,7 +20,6 @@
 </p>
 
 <br />
-
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -53,10 +46,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My Github Stats:
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=biggestcheeseburger&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=biggestcheeseburger&count_private=true&show_icons=true&theme=tokyonight" />
@@ -70,5 +60,3 @@
 [website]: https://biggestcheeseburger.github.io/
 <!-- [linkedin]: https://www.linkedin.com/in/xuan-xu-59aa23171/ -->
 <!-- [mail]: mailto:xuanxu0704@gmail.com -->
-
-
