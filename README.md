@@ -1,6 +1,6 @@
  ### Hi there, I'm [Xuan][website] 😀
 
-![](https://visitor-badge.laobi.icu/badge?page_id=biggestchesseburger.biggestchesseburger) [![Github](https://img.shields.io/github/followers/biggestcheeseburger?label=Followers&logo=Github)](https://github.com/biggestcheeseburger)
+![](https://visitor-badge.laobi.icu/badge?page_id=biggestchesseburger.biggestchesseburger) [![Github](https://img.shields.io/github/followers/xuanxuexp?label=Followers&logo=Github)](https://github.com/xuanxuexp)
 
 ## I'm a Health Data Scientist!
 
@@ -14,7 +14,7 @@
 ## :email: Find me on:
 
 <p align="center">
- <a href="https://biggestcheeseburger.github.io" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://xuanxuexp.github.io" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <!-- <a href="https://www.linkedin.com/in/xuan-xu-59aa23171/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> -->
  <a href="mailto:xuanxu0704@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
@@ -48,15 +48,15 @@
 ## :trophy: My Github Stats:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=biggestcheeseburger&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=biggestcheeseburger&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=xuanxuexp&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xuanxuexp&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=biggestcheeseburger&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biggestcheeseburger&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanxuexp&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanxuexp&hide=php&theme=tokyonight" />
 </a>
 </div>
 
 
-[website]: https://biggestcheeseburger.github.io/
+[website]: https://xuanxuexp.github.io/
 <!-- [linkedin]: https://www.linkedin.com/in/xuan-xu-59aa23171/ -->
 <!-- [mail]: mailto:xuanxu0704@gmail.com -->
