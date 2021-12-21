@@ -48,10 +48,10 @@
 ## :trophy: My Github Stats:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=XuanXuExp&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api?username=xuanxuexp&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xuanxuexp&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=XuanXuExp&hide=php&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanxuexp&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanxuexp&hide=php&theme=tokyonight" />
 </a>
 </div>
