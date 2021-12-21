@@ -56,6 +56,7 @@
 </a>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuanxuexp&langs_count=8)](https://github.com/xuanxuexp/github-readme-stats)
 
 [website]: https://xuanxuexp.github.io/
 <!-- [linkedin]: https://www.linkedin.com/in/xuan-xu-59aa23171/ -->
