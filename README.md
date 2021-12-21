@@ -1,6 +1,6 @@
  ### Hi there, I'm [Xuan][website] 😀
 
-![](https://visitor-badge.laobi.icu/badge?page_id=biggestchesseburger.biggestchesseburger) [![Github](https://img.shields.io/github/followers/xuanxuexp?label=Followers&logo=Github)](https://github.com/xuanxuexp)
+![](https://visitor-badge.laobi.icu/badge?page_id=xuanxuexp.xuanxuexp) [![Github](https://img.shields.io/github/followers/xuanxuexp?label=Followers&logo=Github)](https://github.com/xuanxuexp)
 
 ## I'm a Health Data Scientist!
 
