@@ -5,7 +5,7 @@
 ## I'm a Health Data Scientist!
 
 - 🌱 I am always learning new things
-- 🥅 2022 Goals: Finish my first DS Course
+- 🥅 2025 Goals: Publish more
 - 🧑‍💻 Data + Code = AI
 - 🦍 Animal health
 - 💊 Drug side effect
